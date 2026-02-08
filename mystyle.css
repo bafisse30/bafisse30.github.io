@@ -7,13 +7,13 @@ h1{
         text-align: center;
 }
 #cart{ 
-        padding: 30px;
+        float: right;
         background-color: transparent;
         width: 80px;
         height: 80px;
 }
 h2{
-        float: right;
+        text-align: center;
 }
 #paintbrushes{
         
