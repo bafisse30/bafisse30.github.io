@@ -1,31 +1,31 @@
 body {
-        background-color:blue;
+        background-color: blue;
 }
 h1{
-        color:blue;
-        font-size:80px;
+        color: blue;
+        font-size: 80px;
 }
 #cart{ 
-        padding:30px;
-        background-color:transparent;
-        width:80px;
-        height:80px;
+        padding: 30px;
+        background-color: transparent;
+        width: 80px;
+        height: 80px;
 }
 h2{
-        float:both;
+        float: both;
 }
 #paintbrushes{
         
-        width:120px;
-        height:120px;
+        width: 120px;
+        height: 120px;
 }
 #pencils{
-         width:120px;
-         height:120px;
+         width: 120px;
+         height: 120px;
 }
 #paints{
-         width:120px;
-         height:120px;
+         width: 120px;
+         height: 120px;
 }
 p{
         font-size: 18px;
