@@ -1,32 +1,29 @@
-<style>
-
-    h1{
+h1{
         color:blue;
         font-size:80px;
-    }
-   #cart{ 
+}
+#cart{ 
         padding:30px;
         background-color:transparent;
         width:80px;
         height:80px;
-   }
-   h2{
+}
+h2{
         float:both;
-   }
-    #paintbrushes{
+}
+#paintbrushes{
         
         width:120px;
         height:120px;
-    }
-    #pencils{
+}
+#pencils{
          width:120px;
          height:120px;
-    }
-    #paints{
+}
+#paints{
          width:120px;
          height:120px;
-    }
-    p{
+}
+p{
         font-size: 18px;
-    }
-  </style>
+}
