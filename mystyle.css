@@ -3,20 +3,20 @@ body {
 }
 h1{
         color: rgb(252, 3, 194);
-        font-size: 80px;
+        font-size: 150px;
         text-align: center;
 }
 #cart{ 
         float: right;
         background-color: transparent;
-        width: 80px;
-        height: 80px;
+        width: 45px;
+        height: 45px;
 }
 h2{
         text-align: center;
 }
 #paintbrushes{
-        
+        text-align: center
         width: 120px;
         height: 120px;
 }
