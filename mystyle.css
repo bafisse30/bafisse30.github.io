@@ -2,7 +2,7 @@ body {
         background-color: rgb(198, 237, 245);
 }
 h1{
-        color: rgb(252, 3, 194);
+        color: rgb(192,2,148);
         font-size: 150px;
         text-align: center;
 }
@@ -13,19 +13,21 @@ h1{
 }
 h2{
         text-align: center;
+        font-size: 90px;
 }
 #paintbrushes{
-        text-align: center
-        width: 120px;
-        height: 120px;
+        width: 150px;
+        height: 150px;
 }
 #pencils{
-         width: 120px;
-         height: 120px;
+         width: 150px;
+         height: 150px;
+        padding-right: 5px;
+        padding-left: 5px;
 }
 #paints{
-         width: 120px;
-         height: 120px;
+         width: 150px;
+         height: 150px;
 }
 p{
         text-align: center;
@@ -37,13 +39,13 @@ p{
 }
 #productbutton{
         text-align: center;
-        color: rgb(252, 3, 194);
+        color: rgb(192,2,148);
         background-color: rgb(197, 198, 201);
         border-radius: 8px;
 }
 #aboutbutton{
         text-align: center;
-        color: rgb(252, 3, 194);
+        color: rgb(192,2,148);
         background-color: rgb(197, 198, 201);
         border-radius: 8px;
 }
