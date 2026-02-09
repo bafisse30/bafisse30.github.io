@@ -51,7 +51,6 @@ p{
         border-radius: 8px;
         color: rgb(192,2,148);
         background-color: rgb(197,198,201);
-        margin-left: 600px;
 }
 #paintbrushesbutton{
         width: 200px;
@@ -60,7 +59,6 @@ p{
         border-radius: 8px;
         color: rgb(192,2,148);
         background-color: rgb(197,198,201);
-        margin-left: 600px;
 }
 #paintsbutton{
         width: 200px;
@@ -69,7 +67,6 @@ p{
         border-radius: 8px;
         color: rgb(192,2,148);
         background-color: rgb(197,198,201);
-        margin-left: 600px;
 }
 #pencilsbutton{
         width: 200px;
@@ -78,5 +75,4 @@ p{
         border-radius: 8px;
         color: rgb(192,2,148);
         background-color: rgb(197,198,201);
-        margin-left: 600px;
 }
