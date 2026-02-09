@@ -29,13 +29,13 @@ p{
         font-size: 18px;
 }
 #productbutton{
-        margin-left: 300px;
+        margin-left: 600px;
         color: rgb(192,2,148);
         background-color: rgb(197, 198, 201);
         border-radius: 8px;
 }
 #aboutbutton{
-        text-align: center;
+        margin-left: 600px;
         color: rgb(192,2,148);
         background-color: rgb(197, 198, 201);
         border-radius: 8px;
@@ -44,5 +44,5 @@ p{
         border-radius: 8px;
         color: rgb(192,2,148);
         background-color: rgb(197,198,201);
-        text-align: center;
+        margin-left: 600px;
 }
