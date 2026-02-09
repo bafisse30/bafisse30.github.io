@@ -2,7 +2,7 @@ body {
         background-color: rgb(198, 237, 245);
 }
 h1{
-        color: blue;
+        color: gold;
         font-size: 80px;
         text-align: center;
 }
@@ -30,4 +30,17 @@ h2{
 }
 p{
         font-size: 18px;
+}
+#cartbutton{
+        float: right;
+}
+#productbutton{
+        text-align: center;
+        color: gold;
+        border-radius: 8px;
+}
+#aboutbutton{
+        text-align: center;
+        color: gold;
+        border-radius: 8px;
 }
