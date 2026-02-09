@@ -7,7 +7,6 @@ h1{
         text-align: center;
 }
 #cart{ 
-        float: right;
         background-color: transparent;
         width: 45px;
         height: 45px;
@@ -29,10 +28,12 @@ h2{
          height: 120px;
 }
 p{
+        text-align: center;
         font-size: 18px;
 }
 #cartbutton{
         float: right;
+        margin-top: 5px;
 }
 #productbutton{
         text-align: center;
