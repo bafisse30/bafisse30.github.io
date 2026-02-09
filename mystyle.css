@@ -6,11 +6,6 @@ h1{
         font-size: 150px;
         text-align: center;
 }
-#cart{ 
-        background-color: transparent;
-        width: 45px;
-        height: 45px;
-}
 h2{
         text-align: center;
         font-size: 90px;
@@ -33,10 +28,6 @@ p{
         text-align: center;
         font-size: 18px;
 }
-#cartbutton{
-        float: right;
-        margin-top: 5px;
-}
 #productbutton{
         text-align: center;
         color: rgb(192,2,148);
@@ -48,4 +39,10 @@ p{
         color: rgb(192,2,148);
         background-color: rgb(197, 198, 201);
         border-radius: 8px;
+}
+#homebutton{
+        border-radius: 8px;
+        color: rgb(192,2,148);
+        background-color: rgb(197,198,201);
+        text-align: center;
 }
