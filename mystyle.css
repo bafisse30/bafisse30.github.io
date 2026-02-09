@@ -2,7 +2,7 @@ body {
         background-color: rgb(198, 237, 245);
 }
 h1{
-        color: gold;
+        color: rgb(252, 3, 194);
         font-size: 80px;
         text-align: center;
 }
@@ -36,11 +36,13 @@ p{
 }
 #productbutton{
         text-align: center;
-        color: gold;
+        color: rgb(252, 3, 194);
+        background-color: rgb(197, 198, 201);
         border-radius: 8px;
 }
 #aboutbutton{
         text-align: center;
-        color: gold;
+        color: rgb(252, 3, 194);
+        background-color: rgb(197, 198, 201);
         border-radius: 8px;
 }
