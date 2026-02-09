@@ -31,18 +31,23 @@ p{
 #productbutton{
         width: 200px;
         height: 50px;
-        margin-left: 1000px;
+        margin-left: 950px;
         color: rgb(192,2,148);
         background-color: rgb(197, 198, 201);
         border-radius: 8px;
 }
 #aboutbutton{
-        margin-left: 600px;
+        width: 200px;
+        height: 50px;
+        margin-left: 950px;
         color: rgb(192,2,148);
         background-color: rgb(197, 198, 201);
         border-radius: 8px;
 }
 #homebutton{
+        width: 200px;
+        height: 50px;
+        margin-left: 950px;
         border-radius: 8px;
         color: rgb(192,2,148);
         background-color: rgb(197,198,201);
