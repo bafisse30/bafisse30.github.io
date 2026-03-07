@@ -12,6 +12,34 @@
   <body>
     <h2>Creator</h2>
     <p>My name is Brienna. I created this for a class project. It was created in Indiana. I would like to be able to educate people about the supplies they are buying. This website will not collect any personal information, unless you fill out the more information form.</p>
+    <form action="https://docs.google.com/spreadsheets/d/1IBPJd5_8e67HyBq9c3Q8sF3ErES5fvUfPjB5datXxqQ/edit?gid=0#gid=0" method="POST">
+      <label for="name">Name:</label>
+      <input type="text" id="name" name="name" required>
+      <br>
+      <label for="email">Email:</label>
+      <input type="text" id="email" name="email" required>
+      <br>
+      <label for="phoneNumber">Phone Number:</label>
+      <input type="text" id="phoneNumber" name="phoneNumber" required>
+      <br>
+      <p>Intrested in more information? Choose one below:</p>
+      <div>
+        <input type="checkbox" id="coloredPencils" name="coloredPencils" value="coloredPencils">
+        <label for="coloredPencils">Colored Pencils</label>
+      </div>
+      <div>
+        <input type="checkbox" id="paintbrush" name="paintbrush" value="paintbrush">
+        <label for="paintbrush">Paintbrush</label>
+      </div>
+      <div>
+        <input type="checkbox" id="paint" name="paint" value="paint">
+        <label for="paint">Paint</label>
+      </div>
+      <div>
+        <input type="checkbox" id="other" name="other" value="other">
+        <label for="other">Other</label>
+      </div>
+    </form>
     <button type="button" onclick="window.location.href='index.html'" id="homebutton">Home</button>
   </body>
 </html>
