@@ -86,7 +86,7 @@ p{
         overflow: hidden;
 }
 #topnav a{
-        float: right;
+        float: none;
         color: #f2f2f2;
         text-align: center;
         padding: 14px 16px;
