@@ -100,3 +100,13 @@ p{
         background-color:rgb(192,2,148);
         color: white;
 }
+@media screen and (max-width: 540px){
+        .view{
+                width: 400px;
+        }
+}
+@media screen and (min-width: 540px) and (max-width: 780px){
+        .view{
+                width: 600px;
+        }
+}
