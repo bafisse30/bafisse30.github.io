@@ -18,6 +18,10 @@ th,td{
         padding: 10px;
         text-align: left;
 }
+table{
+        margin-left: auto;
+        margin-right: auto;
+}
 #paintbrushes{
          width: 400px;
         height: 400px;
