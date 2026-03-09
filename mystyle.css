@@ -7,9 +7,11 @@ h1{
         text-align: center;
 }
 #moreinfo{
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
+        height: 100%;
+        margin: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
 }
 h2{
         text-align: center;
