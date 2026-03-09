@@ -8,7 +8,7 @@ h1{
 }
 #moreinfo{
         height: 50%;
-        margin: 0;
+        margin: auto;
         display: flex;
         justify-content: center;
         align-items: center;
