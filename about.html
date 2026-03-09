@@ -13,35 +13,37 @@
     <h2>Creator</h2>
     <p>My name is Brienna. I created this for a class project. It was created in Indiana. I would like to be able to educate people about the supplies they are buying. This website will not collect any personal information, unless you fill out the more information form.</p>
     <h2>More Information</h2>
-    <form method="POST" action="https://script.google.com/macros/s/AKfycbyTNYtnX7cMQMyc1DkjSqkm_n3iiXPGpHFTj-PI9jcT6bcDU95OwGGn8jehATgmeLcZYQ/exec" id="moreinfo">
-      <label for="name">Name:</label>
-      <input type="text" id="name" name="name" required>
-      <br>
-      <label for="email">Email:</label>
-      <input type="text" id="email" name="email" required>
-      <br>
-      <label for="phoneNumber">Phone Number:</label>
-      <input type="text" id="phoneNumber" name="phoneNumber" required>
-      <br>
-      <p>Intrested in more information? Choose one below:</p>
-      <div>
-        <input type="checkbox" id="coloredPencils" name="coloredPencils" value="coloredPencils">
-        <label for="coloredPencils">Colored Pencils</label>
-      </div>
-      <div>
-        <input type="checkbox" id="paintbrush" name="paintbrush" value="paintbrush">
-        <label for="paintbrush">Paintbrush</label>
-      </div>
-      <div>
-        <input type="checkbox" id="paint" name="paint" value="paint">
-        <label for="paint">Paint</label>
-      </div>
-      <div>
-        <input type="checkbox" id="other" name="other" value="other">
-        <label for="other">Other</label>
-      </div>
-      <button type="submit" onclick="window.location.href='index.html'">Submit</button>
-    </form>
+    <div id="moreinfo">
+      <form method="POST" action="https://script.google.com/macros/s/AKfycbyTNYtnX7cMQMyc1DkjSqkm_n3iiXPGpHFTj-PI9jcT6bcDU95OwGGn8jehATgmeLcZYQ/exec">
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required>
+        <br>
+        <label for="email">Email:</label>
+        <input type="text" id="email" name="email" required>
+        <br>
+        <label for="phoneNumber">Phone Number:</label>
+        <input type="text" id="phoneNumber" name="phoneNumber" required>
+        <br>
+        <p>Intrested in more information? Choose one below:</p>
+        <div>
+          <input type="checkbox" id="coloredPencils" name="coloredPencils" value="coloredPencils">
+          <label for="coloredPencils">Colored Pencils</label>
+        </div>
+        <div>
+          <input type="checkbox" id="paintbrush" name="paintbrush" value="paintbrush">
+          <label for="paintbrush">Paintbrush</label>
+        </div>
+        <div>
+          <input type="checkbox" id="paint" name="paint" value="paint">
+          <label for="paint">Paint</label>
+        </div>
+        <div>
+          <input type="checkbox" id="other" name="other" value="other">
+          <label for="other">Other</label>
+        </div>
+        <button type="submit" onclick="window.location.href='index.html'">Submit</button>
+      </form>
+    </div>
     <button type="button" onclick="window.location.href='index.html'" id="homebutton">Home</button>
   </body>
 </html>
