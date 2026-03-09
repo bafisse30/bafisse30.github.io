@@ -6,6 +6,11 @@ h1{
         font-size: 100px;
         text-align: center;
 }
+#moreinfo{
+        display: flex;
+        justify-content:center;
+        align-items: center;
+}
 h2{
         text-align: center;
         font-size: 90px;
